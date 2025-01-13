@@ -1,0 +1,41 @@
+h1{
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(245, 171, 87);
+}
+body{
+  background-color: rgb(236, 223, 187);
+  line-height: 1.2;
+  font-family: sans-serif;
+}
+.topic{
+  background-color: rgb(243, 214, 153);
+  
+}
+
+img{
+  border-radius: 15px;
+}
+
+.image:hover{
+  transition-duration: 1s;
+  width: 180px;
+  height: auto;
+  border-radius: 20px;
+}
+.italics{
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: rgb(15, 15, 15);
+
+}
+.vid{
+  width: 700px;
+}
+#head{
+  background-color: rgb(245, 171, 87);
+  text-align: center;
+}
